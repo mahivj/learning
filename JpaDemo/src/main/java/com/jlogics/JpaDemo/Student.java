@@ -14,6 +14,7 @@ public class Student {
 		super();
 		// TODO Auto-generated constructor stub
 	}
+	
 	public Student(int rollno, String name) {
 		super();
 		this.rollno = rollno;
